@@ -21,4 +21,4 @@ Fizz
 Buzz
 """
 
-assert output == expected_output
+assert output == expected_output, f"Expected output: {expected_output}"
