@@ -1,5 +1,6 @@
 # py210-template-fizzbuzz
-(Assignment Details)[https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/fizz_buzz.html]
+
+[Assignment Details](https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/fizz_buzz.html)
 
 Write your code in`fizz_buzz.py` file. 
 
