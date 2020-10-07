@@ -9,7 +9,7 @@ with contextlib.redirect_stdout(f):
 output = f.getvalue()
 
 expected_output = \
-"""1
+    """1
 2
 Fizz
 4
