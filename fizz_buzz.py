@@ -4,4 +4,3 @@ def fizz_buzz(n):
 
 if __name__ == "__main__":
     fizz_buzz(100)
-    
