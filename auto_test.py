@@ -27,4 +27,4 @@ FizzBuzz
 16
 """
 
-assert output == expected_output, f"Expected output: {expected_output}"
+assert output.lower() == expected_output.lower(), f"Expected output: {expected_output}"
